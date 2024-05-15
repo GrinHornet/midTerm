@@ -23,8 +23,11 @@ STEPS:
 ![image](https://github.com/GrinHornet/midTerm/assets/125188016/44e54a72-3234-44c9-a619-9bdef56f8ab6)
 
 Now you can now view the FLutter application on your device.
+
 ![image](https://github.com/GrinHornet/midTerm/assets/125188016/28bc8852-72b7-4b42-8fdf-08bee42a1d3d)
+
 -The top is the Title, followed by the preview display, the output, and the buttons conating operations and numbers respectively.
+
 ![image](https://github.com/GrinHornet/midTerm/assets/125188016/49f0b1c0-31b9-4ed0-b08a-df149f2f57d2)
 
 Note: This is a simple calculator, the preview that displays a single expression will automatically replace with the upcoming user inputs.
