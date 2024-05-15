@@ -28,7 +28,8 @@ Now you can now view the FLutter application on your device.
 
 -The top is the Title, followed by the preview display, the output, and the buttons containing operations and numbers respectively.
 
-![image](https://github.com/GrinHornet/midTerm/assets/125188016/49f0b1c0-31b9-4ed0-b08a-df149f2f57d2)
+![image](https://github.com/GrinHornet/midTerm/assets/125188016/4e61ebc4-d77d-4953-b2b4-e7255c125065)
+
 
 Note: This is a simple calculator, the preview that displays a single expression will automatically replace with the upcoming user inputs.
 This means that it is just a simple preview and not the history of all user inputs.
