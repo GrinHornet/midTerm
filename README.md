@@ -1,4 +1,4 @@
-# calculator
+# Calculator Application
 
 A new Flutter project.
 
@@ -31,8 +31,8 @@ Now you can now view the FLutter application on your device.
 ![image](https://github.com/GrinHornet/midTerm/assets/125188016/4e61ebc4-d77d-4953-b2b4-e7255c125065)
 
 
-Note: This is a simple calculator, the preview that displays a single expression will automatically replace with the upcoming user inputs.
-This means that it is just a simple preview and not the history of all user inputs.
+Note: This is a simple calculator, the preview that displays a single expression will automatically be replaced by the upcoming user inputs.
+This means that it is just a simple preview and not the history from all inputs of the user. 
 
 
 
